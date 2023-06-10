@@ -1,0 +1,4 @@
+function closes() {
+	window.close();
+}
+

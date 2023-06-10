@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+}
+
+#footer[data-v-b93b67e6] {
+    background-color: #f9f8f8
+}
+
+#footer .img-ssafy-logo[data-v-b93b67e6] {
+    height: 100px
+}
+
+#footer .img-link[data-v-b93b67e6] {
+    height: 60px
+}
+
+#footer .company-info[data-v-b93b67e6] {
+    color: #888
+}
+
+.col-2 {
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%
+}
